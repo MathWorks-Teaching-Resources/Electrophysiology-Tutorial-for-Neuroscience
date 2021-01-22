@@ -1,4 +1,4 @@
-# ELECTROPHYSIOLOGY TUTORIAL FOR NEUROSCIENTISTS
+# ELECTROPHYSIOLOGY TUTORIAL FOR NEUROSCIENCE
 
 This is a MATLAB tutorial for neuroscientists analyzing neural signals recorded during electrophysiology experiments. In addition to data recorded from electrodes placed within the brain, this also includes EEG and ECoG signals.
   

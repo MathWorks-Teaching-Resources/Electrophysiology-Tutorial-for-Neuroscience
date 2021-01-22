@@ -1,4 +1,4 @@
-# SIGNAL PROCESSING FOR NEUROSCIENTISTS
+# ELECTROPHYSIOLOGY TUTORIAL FOR NEUROSCIENTISTS
 
 Example for neuroscience audiences showcasing MATLAB capabilities.  
 Takes participants through a standard neurophysiology signal processing workflow with pre-recorded data.

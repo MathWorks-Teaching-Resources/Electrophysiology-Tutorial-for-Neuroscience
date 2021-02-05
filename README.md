@@ -19,3 +19,4 @@ To run it with your own data, do the following
     b. fs: a scalar denoting the sampling frequency in Hz
 
 
+[![View Electrophysiology-Tutorial-for-Neuroscience on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/86972-electrophysiology-tutorial-for-neuroscience)

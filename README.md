@@ -1,3 +1,5 @@
+[![View Electrophysiology-Tutorial-for-Neuroscience on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/86972-electrophysiology-tutorial-for-neuroscience)
+
 # ELECTROPHYSIOLOGY TUTORIAL FOR NEUROSCIENCE
 
 This is a MATLAB tutorial for neuroscientists analyzing neural signals recorded during electrophysiology experiments. In addition to data recorded from electrodes placed within the brain, this also includes EEG and ECoG signals.
@@ -19,5 +21,5 @@ To run it with your own data, do the following
     b. fs: a scalar denoting the sampling frequency in Hz
 
 
-[![View Electrophysiology-Tutorial-for-Neuroscience on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/86972-electrophysiology-tutorial-for-neuroscience)
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Electrophysiology-Tutorial-for-Neuroscience&file=/Electrophysiology_Tutorial_for_Neuroscience.mlx)
+
+
